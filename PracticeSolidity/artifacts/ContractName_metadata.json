@@ -1,0 +1,48 @@
+{
+	"compiler": {
+		"version": "0.8.19+commit.7dd6d404"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"custom:dev-run-script": "file_path",
+			"details": "ContractDescription",
+			"kind": "dev",
+			"methods": {},
+			"title": "ContractName",
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"PracticeSolidity/Hello.sol": "ContractName"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"PracticeSolidity/Hello.sol": {
+			"keccak256": "0xc52190a199be076bf585eeb2f7fd78ce0c1ecf2ca2347a8ec26edc94eee2e42d",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://cb6af03c0cebc3d6fe8237f54713a5c72e4b23415072be3478f9042a8602a4fc",
+				"dweb:/ipfs/Qmdxyfpi6D8Acf8XqT61GpSzeM7os8BK1kCNyuBz8EzPjP"
+			]
+		}
+	},
+	"version": 1
+}
